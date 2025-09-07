@@ -8,6 +8,7 @@ export function LoadingThreadCard() {
       <Skeleton className="w-full h-[200px] rounded-md mb-4" />
       <Skeleton className="w-full h-[200px] rounded-md mb-4" />
       <Skeleton className="w-full h-[200px] rounded-md mb-4" />
+      <Skeleton className="w-full h-[200px] rounded-md mb-4" />
     </div>
   );
 }
