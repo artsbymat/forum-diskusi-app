@@ -15,7 +15,7 @@ const navigationItems = [
     name: 'Leaderboard',
     to: '/leaderboard',
     icon: Trophy
-
+  }
 ];
 
 function NavigationLinks({ pathname }) {
